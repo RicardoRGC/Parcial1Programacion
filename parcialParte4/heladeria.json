@@ -1,0 +1,4 @@
+[
+  { "sabor": "chocolate", "precio": 200, "tipo": "crema", "stock": 6, "id": 7 },
+  { "sabor": "frutilla", "precio": 200, "tipo": "crema", "stock": 30, "id": 21 }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "mail": "riky@gmail.com",
+    "cantItems": 2,
+    "numeroPedido": 28,
+    "fecha": "19-11-22",
+    "sabor": "frutilla",
+    "tipo": "crema",
+    "imagen": "",
+    "estado": true,
+    "descuento": 0,
+    "precio": 400
+  },
+  {
+    "mail": 20,
+    "cantItems": 2,
+    "numeroPedido": 34,
+    "fecha": "21-11-22",
+    "sabor": "chocolate",
+    "tipo": "crema",
+    "imagen": "",
+    "estado": false,
+    "descuento": 0,
+    "precio": 400
+  }
+]
